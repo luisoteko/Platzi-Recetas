@@ -9,7 +9,7 @@ PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Alg
 * Add to Home Screen
 * Web Share API
 
-[Ver la app en Produccion](https://platzi-recetas-luisoteko.now.sh/)
+[Ver la app en Produccion](https://pwa.luisoteko.com/)
 
 ## Scripts
 
